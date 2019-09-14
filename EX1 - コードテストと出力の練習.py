@@ -1,0 +1,2 @@
+print("こんにちは")
+print("AtCoder")
